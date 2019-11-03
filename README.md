@@ -6,7 +6,7 @@ And it works like a charm!!
 
 ![alt text](https://github.com/deepankarkotnala/Object-detection-using-YOLO/blob/master/images/output_image.JPG)
 
-To download darkflow:
+To download and install darkflow:
 
 ````bash
 pip install Cython
